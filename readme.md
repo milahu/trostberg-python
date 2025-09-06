@@ -54,3 +54,9 @@ Repo: Ich hab uns ein GitHub-Repo gemacht:
 https://github.com/milahu/trostberg-python
 
 Genug gelabert! Lasst uns treffen : )
+
+
+
+## siehe auch
+
+- [kleinanzeigen.de: Python Programmierer gesucht](https://www.kleinanzeigen.de/s-anzeige/python-programmierer-gesucht/3181237033-401-5698)
