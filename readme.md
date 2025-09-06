@@ -4,7 +4,7 @@
 
 Hey Nachbar!
 
-Ich suche Python-Programmierer für regelmäßige Offline-Treffen in meiner Nacchbarschaft.
+Ich suche Python-Programmierer für regelmäßige Offline-Treffen in meiner Nachbarschaft.
 
 Konferenzen: Sozusagen kleine "Python-Konferenzen" mit "Pair-Programming" und so...
 also auch "Anfänger" dürfen gerne kommen - Learning by doing!
